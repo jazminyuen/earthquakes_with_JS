@@ -10,6 +10,6 @@ The user has the option of three different base layers and three overlays that d
 2. Tectonic plates
 3. Major earthquakes with a magnitude of 4.5 or greater
 
-The locations of each earthquake are marked with a circle with a radius scaled to the their magnitude. A legend is provided to as these earthquakes are color-coded by magnitude as well. 
+The locations of each earthquake are marked with a circle with its radius scaled to their magnitude. A legend is provided as these earthquakes are color-coded by magnitude as well. 
 
 In addition, the user can click on each point to display the exact magnitude and location of the earthquake.
